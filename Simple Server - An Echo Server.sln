@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EchoClient", "EchoClient\Ec
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestServer", "UnitTestServer\UnitTestServer.csproj", "{500ED277-FDFF-42C8-87DF-E583355783BA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoDelegates", "DemoDelegates\DemoDelegates.csproj", "{BB0BBA80-B6C7-4EF0-A6CB-BCC7B251BD14}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{500ED277-FDFF-42C8-87DF-E583355783BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{500ED277-FDFF-42C8-87DF-E583355783BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{500ED277-FDFF-42C8-87DF-E583355783BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB0BBA80-B6C7-4EF0-A6CB-BCC7B251BD14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB0BBA80-B6C7-4EF0-A6CB-BCC7B251BD14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB0BBA80-B6C7-4EF0-A6CB-BCC7B251BD14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB0BBA80-B6C7-4EF0-A6CB-BCC7B251BD14}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
